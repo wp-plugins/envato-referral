@@ -1,1 +1,0 @@
-jQeR = jQuery.noConflict();
