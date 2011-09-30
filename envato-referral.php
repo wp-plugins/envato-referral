@@ -6,7 +6,7 @@ Plugin URI:  http://www.brianlasher.com/
 Description: A simple plugin that creates shortcodes and widgets for inserting referrals to envato.com sites
 Author:      <a href="http://www.brianlasher.com/">Brian Lasher</a>
 Author URI:  http://brianlasher.com
-Version:     0.4.001
+Version:     0.4.002
 
 **************************************************************************
 
