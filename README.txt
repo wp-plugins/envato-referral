@@ -3,12 +3,8 @@ Contributors: Brian Lasher, Markus Thömmes
 Tags: envato, envato_referral, referrals, e-commerce, links, 3docean.net, activeden.net, audiojungle.net, codecanyon.net, graphicriver.net, themeforest.net, videohive.net
 Requires at least: 3.0
 Tested up to: 3.2
-Stable tag: 0.4.000
+Stable tag: 0.0.3
 License: GPLv2 or later
-
-A simple plugin that creates shortcodes and widgets for inserting referrals to envato.com sites
-
-== Description ==
 
 A simple plugin that creates shortcodes and widgets for inserting referrals to envato.com sites
 
@@ -33,6 +29,10 @@ Shortcode / Widget Options:
 	max_width         535px
 
 
+== Description ==
+
+A simple plugin that creates shortcodes and widgets for inserting referrals to envato.com sites
+
 Major new features in EnvatoReferral 0.0.3 include:
 
 -jquery cycle effects for image_version=cycle
@@ -49,10 +49,6 @@ Major new features in EnvatoReferral 0.0.3 include:
 
 
 == Changelog ==
-
-= 0.0.4 =
-
-* Cleaned up repository issues
 
 = 0.0.3 =
 
