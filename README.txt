@@ -8,6 +8,10 @@ License: GPLv2 or later
 
 A simple plugin that creates shortcodes and widgets for inserting referrals to envato.com sites
 
+== Description ==
+
+A simple plugin that creates shortcodes and widgets for inserting referrals to envato.com sites
+
 The shortcodes are:
 
 	envato_referral_link
@@ -28,10 +32,6 @@ Shortcode / Widget Options:
 	image_size        125x125
 	max_width         535px
 
-
-== Description ==
-
-A simple plugin that creates shortcodes and widgets for inserting referrals to envato.com sites
 
 Major new features in EnvatoReferral 0.0.3 include:
 
